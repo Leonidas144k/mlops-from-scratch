@@ -1,0 +1,5 @@
+outs:
+- md5: e23e807d5f869006a6db62d6e12620be
+  size: 94
+  hash: md5
+  path: commands.csv
