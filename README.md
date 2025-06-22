@@ -114,7 +114,7 @@ http://localhost:5000
 
 ## Need Help?
 
-- Email: hello@afrosoft.co.za  
+- Email: info@afrosoft.co.za  
 - Website: [https://www.afrosoft.co.za](https://www.afrosoft.co.za)  
 - Ask in the YouTube comments
 
