@@ -1,0 +1,46 @@
+# ----------------------------
+# PYTHON
+# ----------------------------
+__pycache__/
+*.py[cod]
+*.so
+
+# ----------------------------
+# DVC
+# ----------------------------
+.dvc/
+.dvcignore
+
+# If using DVC to track these, ignore local folders
+data/
+!data/.gitkeep      # (optional) to keep the folder structure
+model/
+!model/.gitkeep
+mlruns/
+
+# ----------------------------
+# MLflow
+# ----------------------------
+mlruns/
+*.log
+
+# ----------------------------
+# Jupyter
+# ----------------------------
+.ipynb_checkpoints/
+
+# ----------------------------
+# Environment/Editor
+# ----------------------------
+env/
+venv/
+.mlops_env/
+.vscode/
+.idea/
+*.swp
+
+# ----------------------------
+# OS
+# ----------------------------
+.DS_Store
+Thumbs.db
